@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-change 3 made from master branch
-=======
+
+change 3 made from master
+
 change 2 made from bugfix branch
 
->>>>>>> bugfix
+
